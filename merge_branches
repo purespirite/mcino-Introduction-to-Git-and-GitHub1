@@ -1,0 +1,7 @@
+git checkout main
+git merge bug-fix-typo
+
+Updating ad81aab..fa3c0e3
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
